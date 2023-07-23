@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": ">=NODE_JS_VERSION"
+},
   "name": "Explore_file_sharing",
   "version": "1.0.0",
   "main": "index.js",
